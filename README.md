@@ -26,3 +26,10 @@ pip install -r requirements.txt
 - **get_conversational_chain()**: Serves as the core engine, formulating queries to the computer based on the PDFs and retrieving elaborative answers.
 - **user_input(user_question)**: Translates user questions into the secret computer language, seeks answers from the document content using the core engine, and presents the responses in plain English.
 - **main()**: Entry point for executing the program.
+
+## Tools used
+
+- Google Generative AI (Google Gemini API)
+- Streamlit
+- langchain
+- FAISS Vector Database
