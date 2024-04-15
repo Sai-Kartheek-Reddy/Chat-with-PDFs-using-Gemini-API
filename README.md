@@ -10,6 +10,7 @@ To install the necessary dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 
 Upload your PDF files.
