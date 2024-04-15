@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Tools used
 
-- Google Generative AI (Google Gemini API)
-- Streamlit
-- langchain
-- FAISS Vector Database
+- **Google Generative AI (Google Gemini API)**: Utilized for generating responses based on user queries and document content.
+- **Streamlit**: Facilitates the creation of interactive web applications for easy user interaction.
+- **langchain**: Enables the conversion of text into a specialized code for computational understanding.
+- **FAISS Vector Database**: Used for storing and retrieving vector representations of text chunks, enhancing computational efficiency.
