@@ -10,7 +10,7 @@ from langchain_google_genai import (ChatGoogleGenerativeAI,
                                     GoogleGenerativeAIEmbeddings)
 from PyPDF2 import PdfReader
 
-os.environ['GOOGLE_API_KEY'] = "AIzaSyAmOXe9Xqoxf_OTEOIBvfLb287GGu1uU7Q"
+os.environ['GOOGLE_API_KEY'] = "API_Key" # Here place your Gemini API Key
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 
